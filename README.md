@@ -2,6 +2,8 @@
 
 This application is a graphical user interface (GUI) version of a To-Do List manager implemented in Python. It demonstrates various programming concepts and provides a user-friendly interface for task management.
 
+ ![To-do List Screenshot](todo_list.png)
+
 ## Features
 
 - Add new tasks to the list
